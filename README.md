@@ -54,8 +54,8 @@
  
 
 ### 📝 Contact Me 
-[<img align="left" alt="OriBachar | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
-[<img align="left" alt="OriBachar | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
+[<img align="left" alt="kfirbilu | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
+[<img align="left" alt="kfirbilu | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
 
 
 [linkedin]: https://www.linkedin.com/in/kfirbilu/
