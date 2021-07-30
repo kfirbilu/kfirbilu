@@ -3,7 +3,6 @@
 <img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 <br />
 
-
 <h3> 💻 &nbsp;About Me </h3>
 
 - 👨‍🎓  I'm a Computer Science student (3rd year)
