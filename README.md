@@ -9,7 +9,7 @@
 
 - 💼  I'm a private tutor for 1st year students teaching intro to C and OOP  in C++
   
-- 💪  I'm a self-taught, continuously searching for greater challenges and a have great team and leadership abilities
+- 💪  I'm a self-taught, continuously searching for greater challenges and have great team and leadership abilities
 
 <hr />
 <h3> 🛠 &nbsp;Tech Stack 
