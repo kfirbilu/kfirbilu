@@ -54,13 +54,10 @@
  
 
 ### 📝 Contact Me 
-[<img align="left" alt="kfirbilu | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
-[<img align="left" alt="kfirbilu | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
-
-
-[linkedin]: https://www.linkedin.com/in/kfirbilu/
-[gmail]: mailto:kfirbilu@gmail.com
-
+  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kfirbilu/)
+  &nbsp;
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfirbilu@gmail.com)
 
 
 
