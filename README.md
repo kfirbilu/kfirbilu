@@ -5,7 +5,9 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 👨‍🎓  I'm a Computer Science student (3rd year)
+- 💻  I'm a Software engineer
+
+- 👨‍🎓  I'm an assistant lecturer in The College of Management Academic Studies
 
 - 💼  I'm a private tutor for 1st year students teaching intro to C and OOP  in C++
   
